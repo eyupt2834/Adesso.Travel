@@ -1,0 +1,15 @@
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\bin\Debug\net5.0\Adesso.Travel.Library.deps.json
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\bin\Debug\net5.0\Adesso.Travel.Library.dll
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\bin\Debug\net5.0\ref\Adesso.Travel.Library.dll
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\bin\Debug\net5.0\Adesso.Travel.Library.pdb
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\bin\Debug\net5.0\Adesso.Travel.Business.dll
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\bin\Debug\net5.0\Adesso.Travel.Business.pdb
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\obj\Debug\net5.0\Adesso.Travel.Library.csproj.AssemblyReference.cache
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\obj\Debug\net5.0\Adesso.Travel.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\obj\Debug\net5.0\Adesso.Travel.Library.AssemblyInfoInputs.cache
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\obj\Debug\net5.0\Adesso.Travel.Library.AssemblyInfo.cs
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\obj\Debug\net5.0\Adesso.Travel.Library.csproj.CoreCompileInputs.cache
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\obj\Debug\net5.0\Adesso.Travel.Library.csproj.CopyComplete
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\obj\Debug\net5.0\Adesso.Travel.Library.dll
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\obj\Debug\net5.0\ref\Adesso.Travel.Library.dll
+C:\Users\EyüpTurgut\source\repos\Adesso.Travel\Adesso.Travel.Library\obj\Debug\net5.0\Adesso.Travel.Library.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Icyl0igKflJKhpDvuOcKJH7EpzBwEw1yaYeCMxPzwhuGAFx88sPrA5uMEAUiFjiJFVhu+S3c79q2FzQh3zZ3uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EyüpTurgut\\source\\repos\\Adesso.Travel\\Adesso.Travel.Library\\Adesso.Travel.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EyüpTurgut\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\EyüpTurgut\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\EyüpTurgut\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\EyüpTurgut\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
